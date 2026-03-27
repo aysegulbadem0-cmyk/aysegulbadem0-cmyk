@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Ayşegül Badem
+
+💻 Computer Programming Student  
+⚛️ React Developer  
+🚀 Full Stack Developer  
+
+## Tech Stack
+- React.js
+- Node.js
+- JavaScript
+- Python
+- C#
+- C++
+- SQL & NoSQL
+- Git & GitHub
+
+## Projects
+- Gratis Cilt Bakım Ürünleri Web Projesi## Hi there 👋
 
 <!--
 **aysegulbadem0-cmyk/aysegulbadem0-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
