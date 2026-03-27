@@ -15,13 +15,14 @@
 - Git & GitHub
 
 ## Projects
-- Gratis Cilt Bakım Ürünleri Web Projesi## Hi there 👋
+## 🚀 Projects
 
-<!--
-**aysegulbadem0-cmyk/aysegulbadem0-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛍 Gratis Cilt Bakım Ürünleri Web Projesi
+🔗 Live Demo:
+https://aysegulbadem0-cmyk.github.io/gratis-cilt-bakim-projesi/
 
-Here are some ideas to get you started:
-
+🔗 GitHub Repository:
+https://github.com/aysegulbadem0-cmyk/gratis-cilt-bakim-projesi
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
